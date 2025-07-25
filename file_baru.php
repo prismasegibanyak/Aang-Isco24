@@ -1,1 +1,4 @@
-﻿<?php // File baru ?>
+﻿<?php
+// File baru
+echo "Hello World!";
+?>
