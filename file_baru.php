@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // File baru
-echo "Hello World!";
+echo "Created with Sublime Text!";
 ?>
