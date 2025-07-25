@@ -22,7 +22,7 @@
 /app/Config/database.php
 /vendors/*
 
-# Custom untuk proyek Anda
+# Custom rules for our project
 .env
 config/local.php
 uploads/
